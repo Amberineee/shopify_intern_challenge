@@ -11,6 +11,7 @@ AOV is calculated by total revenue divided by the total number of orders. There 
 b. What metric would you report for this dataset?
 
 First I will report the median order value for all the orders. More specifically we could look at the median order value per payment method. Also the daily order amount and 7-day rolling average of order amount per day to do more detailed and goal oriented analysis. 
+
 c. What is its value?
 
 The median order value of this dataset is $284.
